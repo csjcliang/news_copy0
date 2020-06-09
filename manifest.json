@@ -101,7 +101,11 @@
                 }
             }
         },
-        "title" : "news"
+        "title" : "news",
+        "router" : {
+            "mode" : "history"
+        },
+        "domain" : "https://csjcliang.github.io/news_copy0"
     },
     /* 快应用特有相关 */
     "quickapp" : {},
