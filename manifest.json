@@ -1,6 +1,6 @@
 {
-    "name" : "test1",
-    "appid" : "",
+    "name" : "news",
+    "appid" : "__UNI__45E601A",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -105,7 +105,7 @@
         "router" : {
             "mode" : "history"
         },
-        "domain" : "https://csjcliang.github.io/news_copy0"
+        "domain" : "https://github.com/csjcliang/news_copy0"
     },
     /* 快应用特有相关 */
     "quickapp" : {},
