@@ -103,9 +103,10 @@
         },
         "title" : "news",
         "router" : {
-            "mode" : "history"
+            "mode" : "history",
+            "base" : "./"
         },
-        "domain" : "https://github.com/csjcliang/news_copy0"
+        "domain" : "https://csjcliang.github.io/news_copy0"
     },
     /* 快应用特有相关 */
     "quickapp" : {},
